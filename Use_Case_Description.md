@@ -9,10 +9,20 @@
 
 
 ### Use case description : 자전거 리스트 조회
-| Actor Action | System Response                                                                          |
-|--------------|------------------------------------------------------------------------------------------|
-|1. 관리자가 자전거 리스트 조회 창에 접근한다.|2. 등록된 자전거 목록을 보여준다.|
-|Extension A. 관리자가 목록 내 특정 자전거 삭제 버튼을 클릭하는 경우 해당 자전거 항목을 삭제할 수 있다.|
+<table>
+  <tr>
+    <td><strong>Actor Action</strong></td>
+    <td><strong>System Response</strong></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td>1. 관리자가 자전거 리스트 조회 창에 접근한다.</td>
+    <td>2. 등록된 자전거 목록을 보여준다.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Extension A. 관리자가 목록 내 특정 자전거 삭제 버튼을 클릭하는 경우 해당 자전거 항목을 삭제할 수 있다.</td>
+  </tr>
+</table>
 
 
 ### Use case description : 자전거 상세 내용 조회
