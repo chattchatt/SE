@@ -1,3 +1,5 @@
+https://github.com/chattchatt/SE.git
+
 [chattchatt] Fri May 9 01:52:15 2025 +0900 Use_Case_Description_Final.md 6c53cd4
 [chattchatt] Fri May 9 01:33:58 2025 +0900 Use_Case_Description_Update .md 7606043
 [chattchatt] Fri May 9 00:03:12 2025 +0900 Use_Case_Description_Update_Chaewoon.md acf8b67
